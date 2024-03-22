@@ -1,0 +1,8 @@
+.image-text{
+    position: absolute;
+    bottom: -3700px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15rem;
+    left: 200px;
+}
